@@ -13,8 +13,8 @@ I love to take on new challenges. I am a master of computer science engineer. I 
   <img src="https://www.chartjs.org/img/chartjs-logo.svg" alt="Chart.js" height="30"/>
   <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="Django" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" height="30"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Git" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" alt="MySQL" height="30"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png" alt="Git" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/800px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" height="30"/>
 </div>
 
