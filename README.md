@@ -26,7 +26,7 @@ I love to take on new challenges. I am a master of computer science engineer. I 
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDB" height="30"/>
 </div>
 
-## Contact:
+## Contact
 <div display="flex">
 E-mail: kwiatkowskilukasz1994@gmail.com
 </div>
