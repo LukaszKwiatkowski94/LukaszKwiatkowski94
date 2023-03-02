@@ -1,7 +1,7 @@
 ## Hey 👋 I'm Lukas!  
 
 <p align="justify"> 
-I love to take on new challenges. I am a master of computer science engineer. I have gone from teaching programming to where I am now. Now I am starting the path of a freelance developer and I want to learn web development technology. In my career, I created games in Unity and taught children programming at school. From an early age, I was interested in computer science. Programming is my passion. I love creating applications that are user-friendly.
+I love to take on new challenges. I am a master of computer science engineer. I am working as a Junior Back End Developer. From an early age, I was interested in computer science. Programming is my passion. I love creating applications that are user-friendly.
 </p>
 
 ## Languages and Tools 
@@ -27,7 +27,7 @@ I love to take on new challenges. I am a master of computer science engineer. I 
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_plain_wordmark_logo_icon_146423.png" alt="MongoDB" height="30"/>
 </div>
 
-## Contact
-<div display="flex">
-E-mail: kwiatkowskilukasz1994@gmail.com
-</div>
+## Contact and links
+**E-mail:** kwiatkowskilukasz1994@gmail.com
+</br>
+**Website:** [Go to my website](http://portfolio-lukasz-kwiatkowski.cba.pl/ "Go to my website")
