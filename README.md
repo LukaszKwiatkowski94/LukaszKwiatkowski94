@@ -8,6 +8,6 @@ I often go on bike trips, during which I enjoy beautiful landscapes and a health
 </p>
 
 ## Contact and links
-**E-mail:** kwiatkowskilukasz1994@gmail.com
+**E-mail:** contact@kwiatkowskilukasz.pl
 </br>
 **Website:** [Go to my website](http://portfolio-lukasz-kwiatkowski.cba.pl/ "Go to my website")
